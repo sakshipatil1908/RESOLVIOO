@@ -1,0 +1,12 @@
+Patient ID,Medication ID,Medication Name,Dosage,Frequency,Start Date,End Date
+1,201,Metformin,500mg,Once daily,2010-08-15,2021-06-30
+1,202,Lisinopril,10mg,Once daily,2012-03-22,2023-01-31
+2,203,,20mg,Once daily,2015-11-10,2023-07-15
+3,204,Albuterol Inhaler,,As needed,2005-06-30,2022-12-31
+4,205,Sumatriptan,100mg,As needed,2018-04-05,2023-07-15
+5,206,Atorvastatin,40mg,Once daily,2011-10-12,2023-07-15
+6,207,Xanax,0.5mg,As needed,2002-09-28,2023-07-15
+7,208,Methimazole,10mg,,2019-02-11,2023-07-15
+8,209,Losartan,50mg,Once daily,2008-11-29,
+9,210,Amoxicillin,,Three times daily,2020-07-08,2021-07-08
+10,211,Ibuprofen,400mg,As needed,2004-03-22,

@@ -1,0 +1,11 @@
+Patient ID,Name,Gender,Age,Date of Birth,Address,Contact Number,Email
+1,John Doe,Male,45,1978-05-12,123 Main St,555-1234,johndoe@example.com
+2,Jane Smith,Female,32,1991-09-28,456 Elm St,555-5678,janesmith@example.com
+3,Michael Johnson,Male,,1965-03-07,789 Oak Ave,555-9876,michaeljohnson@example.com
+4,Emily Davis,Female,41,1980-12-19,321 Pine St,555-2468,emilydavis@example.com
+5,Robert Lee,Male,67,1956-08-02,654 Birch Ln,555-1357,robertlee@example.com
+6,Susan Wilson,Female,53,1969-11-14,987 Cedar Rd,,susanwilson@example.com
+7,David Thompson,Male,35,1988-07-03,258 Maple Ave,555-7391,davidthompson@example.com
+8,Sarah Anderson,Female,49,1974-02-28,741 Oak St,555-9056,sarahanderson@example.com
+9,Christopher Martin,Male,27,1996-06-19,369 Elm St,555-2147,christophermartin@example.com
+10,Amy Garcia,Female,61,1962-04-07,123 Pine St,555-3985,amygarcia@example.com
